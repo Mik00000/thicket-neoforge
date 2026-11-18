@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "thicket:hazel_pressure_plate",
+    "thicket:myrrh_pressure_plate",
+    "thicket:boswellia_pressure_plate"
+  ]
+}

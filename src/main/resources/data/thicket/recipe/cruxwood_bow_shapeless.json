@@ -1,0 +1,22 @@
+{
+  "result": {
+    "id": "thicket:cruxwood_bow",
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:unbreaking": 1,
+          "thicket:occult": 1
+        }
+      }
+    }
+  },
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bow"
+    },
+    {
+      "item": "thicket:enchanted_mistletoe"
+    }
+  ]
+}

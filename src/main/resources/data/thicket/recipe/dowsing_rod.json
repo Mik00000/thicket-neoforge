@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "thicket:hazel_sapling"
+    }
+  ],
+  "result": {
+    "id": "thicket:dowsing_rod"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "result": {
+    "id": "thicket:cruxwood_hoe",
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:fortune": 1,
+          "minecraft:efficiency": 1,
+          "minecraft:unbreaking": 1
+        }
+      }
+    }
+  },
+  "pattern": [
+    "##",
+    " X",
+    " M"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "tag": "minecraft:planks"
+    },
+    "X": {
+      "tag": "forge:rods/wooden"
+    },
+    "M": {
+      "item": "thicket:enchanted_mistletoe"
+    }
+  }
+}

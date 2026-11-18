@@ -1,0 +1,30 @@
+{
+  "result": {
+    "id": "thicket:cruxwood_bow",
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:unbreaking": 1,
+          "thicket:occult": 1
+        }
+      }
+    }
+  },
+  "pattern": [
+    " XS",
+    "M S",
+    " XS"
+  ],
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "tag": "forge:rods/wooden"
+    },
+    "M": {
+      "item": "thicket:enchanted_mistletoe"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  }
+}

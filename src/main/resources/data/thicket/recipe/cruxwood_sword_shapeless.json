@@ -1,0 +1,23 @@
+{
+  "result": {
+    "id": "thicket:cruxwood_sword",
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:looting": 1,
+          "minecraft:unbreaking": 1,
+          "thicket:occult": 1
+        }
+      }
+    }
+  },
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_sword"
+    },
+    {
+      "item": "thicket:enchanted_mistletoe"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "key": {
+    "#": {
+      "item": "thicket:hazel_log"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "id": "thicket:hazel_wood"
+  }
+}

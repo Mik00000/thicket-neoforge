@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#thicket:has_heliotrope",
+  "features": "thicket:patch_heliotrope",
+  "step": "vegetal_decoration"
+}

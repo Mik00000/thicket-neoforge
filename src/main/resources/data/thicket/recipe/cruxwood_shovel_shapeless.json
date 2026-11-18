@@ -1,0 +1,23 @@
+{
+  "result": {
+    "id": "thicket:cruxwood_shovel",
+    "components": {
+      "minecraft:enchantments": {
+        "levels": {
+          "minecraft:fortune": 1,
+          "minecraft:efficiency": 1,
+          "minecraft:unbreaking": 1
+        }
+      }
+    }
+  },
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:wooden_shovel"
+    },
+    {
+      "item": "thicket:enchanted_mistletoe"
+    }
+  ]
+}
